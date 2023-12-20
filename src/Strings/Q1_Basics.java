@@ -22,5 +22,8 @@ public class Q1_Basics {
 		
 		// Print substring
 		System.out.println(s.substring(2,4));
+		
+		// Print Length
+		System.out.println(s.length());
 	}
 }
