@@ -34,5 +34,5 @@ public class Q7_NumberOfPalindrome {
 		Scanner sc=new Scanner(System.in);
 		String s=sc.nextLine();
 		numberOfPalindrome(s);
-	}
+	} 
 }
